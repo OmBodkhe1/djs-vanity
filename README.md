@@ -1,6 +1,6 @@
 <h2 style="font-size:2.5rem" align="center">djs-vanity</h2>
 
-<h2 align="center">A Simple & Easy Way To Change Your Discord Server Vantiy</h2>
+<h2 align="center">A simple & easy way to change your discord server vanity</h2>
 
 <br>
 <p align="center">
